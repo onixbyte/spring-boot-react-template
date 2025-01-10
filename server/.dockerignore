@@ -1,0 +1,8 @@
+README.md
+HELP.md
+.gradle/
+target/
+build/
+logs/
+config/
+*.iml
